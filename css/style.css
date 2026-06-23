@@ -1,4 +1,7 @@
-;.hero-section{
+html{
+    scroll-behavior: smooth;
+}
+.hero-section{
     min-height:70vh;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('../images/1000596176.png') no-repeat center center/cover;
     background-color: #212529;
